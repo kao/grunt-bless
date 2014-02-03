@@ -1,0 +1,52 @@
+{
+  "name": "grunt-bless",
+  "description": "Grunt Task using Bless.js to split your CSS into files just for the pleasure of Internet Explorer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kao/grunt-bless",
+  "author": {
+    "name": "Flavien Cogez",
+    "email": "flavien.cogez@gmail.com"
+  },
+  "contributors": [ ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kao/grunt-bless"
+  },
+  "bugs": {
+    "url": "https://github.com/kao/grunt-bless/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kao/grunt-bless/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "bless": "~3.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "bless",
+    "blessjs",
+    "css",
+    "IE",
+    "Internet Explorer"
+  ],
+  "_id": "grunt-bless@0.1.0",
+  "_from": "grunt-bless@"
+}
+

@@ -1,0 +1,13 @@
+{
+  "camelcase": true,
+  "indent": 2,
+  "newcap": true,
+  "undef": true,
+  "trailing": true,
+  "maxlen": 200,
+  "white": true,
+  "globalstrict": true,
+  "globals": {
+    "module": false
+  }
+}
